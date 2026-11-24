@@ -12,9 +12,12 @@ characters, not only whitespace.
 import os
 import sys
 
-# Draft choice: the smell of rain on dry earth. Vivid, specific,
-# and a word most readers have felt but never named.
-WORD = "petrichor"
+# Final choice: the sound of wind in trees. Rarer than the draft
+# (petrichor is the most-cited "beautiful word" on every list, so a
+# duplicate is likely), equally vivid, and the word itself whispers:
+# the soft "psith" onset mimics wind through leaves, so form matches
+# meaning. Surprising, specific, and unmistakably chosen.
+WORD = "psithurism"
 
 
 def main() -> int:
